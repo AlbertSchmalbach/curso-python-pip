@@ -2,9 +2,9 @@ import matplotlib.pyplot as plt
 
 def generate_pie_chart():
     labels = ['A', 'B', 'C']
-    values = [235, 48, 108]
+    values = [200, 48, 108]
 
-    fig, ax = plt.subplot()
-    ax.pie(values, label= labels)
+    fig, ax = plt.subplots()
+    ax.pie(values, labels= labels)
     plt.savefig('pie.png')
     plt.close()
