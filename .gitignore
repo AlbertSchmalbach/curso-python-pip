@@ -237,6 +237,7 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-# End of https://www.toptal.com/developers/gitignore/api/windows,linux,macos,python
+# Windows txt
+token
 
-.token.txt
+# End of https://www.toptal.com/developers/gitignore/api/windows,linux,macos,python
