@@ -238,6 +238,6 @@ $RECYCLE.BIN/
 *.lnk
 
 # Windows txt
-token
+token.txt
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,linux,macos,python
